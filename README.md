@@ -14,7 +14,7 @@ Selection Sort is a simple comparison-based sorting algorithm. It works by repea
 5. Repeat until the array is fully sorted.
 
 ---
-Example
+
 ## Output of Program
 
 <img width="465" height="475" alt="image" src="https://github.com/user-attachments/assets/d347a8a8-5a39-4f7f-a9bc-b71dd55e0ef2" />
